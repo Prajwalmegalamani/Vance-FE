@@ -1,0 +1,438 @@
+{
+  "health": {
+    "message": "Welcome to the Vance"
+  },
+  "user_auth": [
+    {
+      "id": 1,
+      "name": "Vance Admin",
+      "email": "admin@example.com",
+      "password": "pass123",
+      "role": ["ADMIN", "CAMPAIGN_MANAGER"]
+    },
+    {
+      "id": 2,
+      "name": "Vance Campaign Manager",
+      "email": "campaign.manager@example.com",
+      "password": "pass123",
+      "role": ["CAMPAIGN_MANAGER"]
+    },
+    {
+      "id": 3,
+      "name": "Vance",
+      "email": "user@example.com",
+      "password": "pass123",
+      "role": ["USER"]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Mia",
+      "age": 33,
+      "gender": "Male",
+      "occupation": "Architect",
+      "salary": 87808,
+      "placeOfBirth": "New York"
+    },
+    {
+      "id": 2,
+      "name": "Amber",
+      "age": 26,
+      "gender": "Non-Binary",
+      "occupation": "Frontend Developer",
+      "salary": 96223
+    },
+    {
+      "id": 3,
+      "name": "Amber",
+      "age": 23,
+      "gender": "Non-Binary",
+      "occupation": "Marketing Manager",
+      "salary": 136123
+    },
+    {
+      "id": 4,
+      "name": "Rachel",
+      "age": 49,
+      "gender": "Non-Binary",
+      "occupation": "Architect",
+      "salary": 56959
+    },
+    {
+      "id": 5,
+      "name": "Hannah",
+      "age": 32,
+      "gender": "Non-Binary",
+      "occupation": "Architect",
+      "salary": 119897
+    },
+    {
+      "id": 6,
+      "name": "Catherine",
+      "age": 38,
+      "gender": "Male",
+      "occupation": "Architect",
+      "salary": 139930
+    },
+    {
+      "id": 7,
+      "name": "Amber",
+      "age": 50,
+      "gender": "Non-Binary",
+      "occupation": "Civil Engineer",
+      "salary": 78072
+    },
+    {
+      "id": 8,
+      "name": "Victoria",
+      "age": 48,
+      "gender": "Non-Binary",
+      "occupation": "Software Engineer",
+      "salary": 74522
+    },
+    {
+      "id": 9,
+      "name": "Jack",
+      "age": 39,
+      "gender": "Female",
+      "occupation": "Doctor",
+      "salary": 119902
+    },
+    {
+      "id": 10,
+      "name": "Yasmine",
+      "age": 26,
+      "gender": "Female",
+      "occupation": "Doctor",
+      "salary": 132858
+    },
+    {
+      "id": 11,
+      "name": "David",
+      "age": 33,
+      "gender": "Male",
+      "occupation": "Cyber Security Expert",
+      "salary": 102273
+    },
+    {
+      "id": 12,
+      "name": "Yasmine",
+      "age": 27,
+      "gender": "Non-Binary",
+      "occupation": "Lawyer",
+      "salary": 48456
+    },
+    {
+      "id": 13,
+      "name": "William",
+      "age": 23,
+      "gender": "Female",
+      "occupation": "Frontend Developer",
+      "salary": 115518
+    },
+    {
+      "id": 14,
+      "name": "Hannah",
+      "age": 28,
+      "gender": "Non-Binary",
+      "occupation": "Backend Developer",
+      "salary": 107578
+    },
+    {
+      "id": 15,
+      "name": "Bob",
+      "age": 44,
+      "gender": "Female",
+      "occupation": "Civil Engineer",
+      "salary": 86276
+    },
+    {
+      "id": 16,
+      "name": "Eleanor",
+      "age": 35,
+      "gender": "Non-Binary",
+      "occupation": "Intern",
+      "salary": 147904
+    },
+    {
+      "id": 17,
+      "name": "Isaac",
+      "age": 26,
+      "gender": "Male",
+      "occupation": "UX Designer",
+      "salary": 53241
+    },
+    {
+      "id": 18,
+      "name": "Xavier",
+      "age": 44,
+      "gender": "Female",
+      "occupation": "Lawyer",
+      "salary": 135560
+    },
+    {
+      "id": 19,
+      "name": "Tina",
+      "age": 49,
+      "gender": "Male",
+      "occupation": "DevOps Engineer",
+      "salary": 55894
+    },
+    {
+      "id": 20,
+      "name": "Daniel",
+      "age": 49,
+      "gender": "Male",
+      "occupation": "Frontend Developer",
+      "salary": 97620
+    },
+    {
+      "id": 21,
+      "name": "Brian",
+      "age": 22,
+      "gender": "Male",
+      "occupation": "Civil Engineer",
+      "salary": 138898
+    },
+    {
+      "id": 22,
+      "name": "Jack",
+      "age": 43,
+      "gender": "Non-Binary",
+      "occupation": "Marketing Manager",
+      "salary": 130128
+    },
+    {
+      "id": 23,
+      "name": "Bob",
+      "age": 47,
+      "gender": "Male",
+      "occupation": "Marketing Manager",
+      "salary": 127283
+    },
+    {
+      "id": 24,
+      "name": "Daniel",
+      "age": 32,
+      "gender": "Female",
+      "occupation": "Frontend Developer",
+      "salary": 102774
+    },
+    {
+      "id": 25,
+      "name": "George",
+      "age": 24,
+      "gender": "Non-Binary",
+      "occupation": "Sales Manager",
+      "salary": 99336
+    },
+    {
+      "id": 26,
+      "name": "Xavier",
+      "age": 41,
+      "gender": "Non-Binary",
+      "occupation": "Sales Manager",
+      "salary": 78766
+    },
+    {
+      "id": 27,
+      "name": "Karen",
+      "age": 46,
+      "gender": "Female",
+      "occupation": "Product Manager",
+      "salary": 81947
+    },
+    {
+      "id": 28,
+      "name": "Alice",
+      "age": 38,
+      "gender": "Male",
+      "occupation": "Frontend Developer",
+      "salary": 116041
+    },
+    {
+      "id": 29,
+      "name": "Quinn",
+      "age": 28,
+      "gender": "Female",
+      "occupation": "Cyber Security Expert",
+      "salary": 90902
+    },
+    {
+      "id": 30,
+      "name": "Isaac",
+      "age": 23,
+      "gender": "Male",
+      "occupation": "Mechanical Engineer",
+      "salary": 43723
+    },
+    {
+      "id": 31,
+      "name": "Brian",
+      "age": 31,
+      "gender": "Non-Binary",
+      "occupation": "Civil Engineer",
+      "salary": 117295
+    },
+    {
+      "id": 32,
+      "name": "Tina",
+      "age": 28,
+      "gender": "Female",
+      "occupation": "CFO",
+      "salary": 120222
+    },
+    {
+      "id": 33,
+      "name": "William",
+      "age": 34,
+      "gender": "Female",
+      "occupation": "Business Analyst",
+      "salary": 122094
+    },
+    {
+      "id": 34,
+      "name": "Rachel",
+      "age": 30,
+      "gender": "Female",
+      "occupation": "HR Manager",
+      "salary": 90929
+    },
+    {
+      "id": 35,
+      "name": "Paul",
+      "age": 47,
+      "gender": "Male",
+      "occupation": "Software Engineer",
+      "salary": 117285
+    },
+    {
+      "id": 36,
+      "name": "Leo",
+      "age": 24,
+      "gender": "Female",
+      "occupation": "Intern",
+      "salary": 109119
+    }
+  ],
+  "campaigns": [
+    {
+      "id": 1,
+      "name": "Summer Sale",
+      "type": "Referral Program",
+      "budget": 47234,
+      "start_date": "2025-07-01",
+      "end_date": "2025-12-11",
+      "status": "Inactive"
+    },
+    {
+      "id": 2,
+      "name": "Winter Clearance",
+      "type": "Referral Program",
+      "budget": 31439,
+      "start_date": "2025-03-27",
+      "end_date": "2025-10-23",
+      "status": "Upcoming"
+    },
+    {
+      "id": 3,
+      "name": "Black Friday",
+      "type": "Flash Sale",
+      "budget": 9702,
+      "start_date": "2025-11-26",
+      "end_date": "2025-07-05",
+      "status": "Active"
+    },
+    {
+      "id": 4,
+      "name": "Cyber Monday",
+      "type": "Loyalty Rewards",
+      "budget": 39010,
+      "start_date": "2025-06-13",
+      "end_date": "2025-03-17",
+      "status": "Upcoming"
+    },
+    {
+      "id": 5,
+      "name": "Holiday Giveaway",
+      "type": "BOGO",
+      "budget": 34262,
+      "start_date": "2025-08-07",
+      "end_date": "2025-03-18",
+      "status": "Upcoming"
+    },
+    {
+      "id": 6,
+      "name": "Flash Discount",
+      "type": "BOGO",
+      "budget": 6905,
+      "start_date": "2025-05-19",
+      "end_date": "2025-10-15",
+      "status": "Active"
+    },
+    {
+      "id": 7,
+      "name": "Buy One Get One",
+      "type": "Discount",
+      "budget": 27027,
+      "start_date": "2025-04-07",
+      "end_date": "2025-07-28",
+      "status": "Completed"
+    },
+    {
+      "id": 8,
+      "name": "New Year Bonanza",
+      "type": "Referral Program",
+      "budget": 8015,
+      "start_date": "2025-07-01",
+      "end_date": "2025-01-25",
+      "status": "Upcoming"
+    },
+    {
+      "id": 9,
+      "name": "Customer Appreciation",
+      "type": "Loyalty Rewards",
+      "budget": 49148,
+      "start_date": "2025-03-19",
+      "end_date": "2025-07-15",
+      "status": "Active"
+    },
+    {
+      "id": 10,
+      "name": "Weekend Deals",
+      "type": "Referral Program",
+      "budget": 14425,
+      "start_date": "2025-12-09",
+      "end_date": "2025-01-15",
+      "status": "Active"
+    },
+    {
+      "id": 11,
+      "name": "Exclusive Members Sale",
+      "type": "Referral Program",
+      "budget": 22678,
+      "start_date": "2025-12-12",
+      "end_date": "2025-12-02",
+      "status": "Upcoming"
+    },
+    {
+      "id": 12,
+      "name": "Back to School",
+      "type": "Discount",
+      "budget": 29074,
+      "start_date": "2025-11-12",
+      "end_date": "2025-11-14",
+      "status": "Completed"
+    },
+    {
+      "id": 13,
+      "name": "Super Saver",
+      "type": "Discount",
+      "budget": 36517,
+      "start_date": "2025-03-17",
+      "end_date": "2025-11-27",
+      "status": "Inactive"
+    }
+  ]
+}
